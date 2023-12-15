@@ -1,9 +1,6 @@
 # DigitalBankingApplication
 Digital Banking Application (DBank)
 
-<p>Successfully created a functional digital banking application that demonstrates proficiency in full-stack development, backend logic implementation, and frontend design. The project showcases my ability to handle complex calculations, develop user-centric interfaces, and write clean, maintainable code.</p>
-<p><strong>Technologies Used</strong>: Motoko, JavaScript, HTML, CSS, Canister SDK</p>
-<p><strong>Overview:</strong></p>
 <p>
   Developed a full-stack digital banking application named DBank, designed to simulate core banking functionalities in a secure, user-friendly web interface. The application enables users to manage their finances through operations like balance checking, funds deposit (top-up), and withdrawal.
 </p>
